@@ -1,0 +1,36 @@
+body{
+
+}
+.menu{
+    width: 160px;
+    height: 152px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+. menu- texto{
+    display: flex;
+    width: 758px;
+    height: 121px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #FFF;
+font-size: 20px;
+font-family: Inter;
+font-weight: 700;
+}
+
+. cabeçalho{
+    width: 1440px;
+    height: 218px;
+    flex-shrink: 0;
+    background: #AB3838;
+}
+
+. corpo{
+   
+}
+
+. rodape{
+    
+}
